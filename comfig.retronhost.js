@@ -1,0 +1,6 @@
+{
+  "pages": {
+    "/":"pages/index.html"
+  },
+  "404": "pages/404.html"
+}
